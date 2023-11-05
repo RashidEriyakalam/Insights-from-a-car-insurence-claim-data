@@ -23,8 +23,9 @@ The analysis approach can be summarized in the following steps:
 1. **Understanding the Data**: The project began with a thorough exploration of the dataset to understand its structure and variables.
 
 2. **Formulating Questions**: Key questions were formulated based on the initial observations. Two significant questions that arose were:
-   - **Question 1**: Why do female drivers have a significantly higher number of claims compared to male drivers?
-   - **Question 2**: Why do SUVs have the highest number of claims compared to other car types?
+   - **Question 1**: Why majority of claims has come from middle age group(60-80 according to data set)
+   - **Question 2**: Why do female drivers have a significantly higher number of claims compared to male drivers?
+   - **Question 3**: Why do SUVs have the highest number of claims compared to other car types?
 
 3. **Gender vs. Claim Frequency Analysis**: A bar chart was created to compare gender and claim frequency. It was observed that female drivers have significantly more claims than male drivers, leading to the first question.
 
@@ -40,6 +41,7 @@ The analysis approach can be summarized in the following steps:
 
 The key findings and insights from the analysis include:
 
+- The majority of vehicle users belong to this category, and this naturally has an impact on the frequency of claims made by this category as well.
 - Female drivers have more claims due to their ownership of more private vehicles.
 - SUVs have the highest number of claims due to their popularity among car users, driven by affordability.
 

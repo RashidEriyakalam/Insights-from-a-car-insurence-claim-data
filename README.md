@@ -59,6 +59,3 @@ The primary tool used in this analysis is Tableau for creating interactive data 
 ## How to Use
 
 1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/your-repo.git

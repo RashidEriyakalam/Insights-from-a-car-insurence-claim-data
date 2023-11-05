@@ -22,7 +22,7 @@ The analysis approach can be summarized in the following steps:
 
 1. **Understanding the Data**: The project began with a thorough exploration of the dataset to understand its structure and variables.
 
-2. **Formulating Questions**: Key questions were formulated based on the initial observations. Two significant questions that arose were:
+2. **Formulating Questions**: Key questions were formulated based on the initial observations. Three significant questions that arose were:
    - **Question 1**: Why majority of claims has come from middle age group(60-80 according to data set)
    - **Question 2**: Why do female drivers have a significantly higher number of claims compared to male drivers?
    - **Question 3**: Why do SUVs have the highest number of claims compared to other car types?

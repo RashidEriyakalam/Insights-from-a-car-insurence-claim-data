@@ -49,11 +49,10 @@ The key findings and insights from the analysis include:
 
 The project includes a series of visualizations created using Tableau to represent the data and findings effectively.
 
-- [Story 1: TO FIND WHY THE MAJORITY OF CLAIMS HAVE COME FROM THE MIDDLE AGE GROUP (60-80).]([Story 1.zip](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259314/Story.1.zip)
-)
-- [Story 2: ANALYSING WHY WOMEN HAS CLAIMED MORE TIMES THAN MEN](link-to-car-type-claim-frequency-dashboard)
-- [Story 3: TO FIND WHY SUV'S HAS MOST CLAIMS](link-to-median-income-car-type-dashboard)
-- [Story 4: TO ANALYSE WHY SUV'S ARE MOST POPULAR AMONG CAR'S.](link-to-bluebook-value-car-type-dashboard)
+- [Story 1: TO FIND WHY THE MAJORITY OF CLAIMS HAVE COME FROM THE MIDDLE AGE GROUP (60-80).](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259314/Story.1.zip)
+- [Story 2: ANALYSING WHY WOMEN HAS CLAIMED MORE TIMES THAN MEN](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259321/Story.2.zip)
+- [Story 3: TO FIND WHY SUV'S HAS MOST CLAIMS](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259322/Story.3.zip)
+- [Story 4: TO ANALYSE WHY SUV'S ARE MOST POPULAR AMONG CAR'S.](https://github.com/RashidEriyakalam/Insights-from-a-car-insurence-claim-data/files/13259323/Story.4.zip)
 
 ## Tools Used
 

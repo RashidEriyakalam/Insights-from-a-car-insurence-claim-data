@@ -1,7 +1,7 @@
 # Car Insurance Claim Data Analysis (Tableau Project)
 
 This Tableau project aims to provide valuable insights to an insurance company to help increase their profitability by analyzing a car insurance claim dataset. The analysis follows a structured approach, involving data exploration, formulation of key questions, and data visualization.
-
+ 
 ## Table of Contents
 
 1. [Data Overview](#data-overview)
